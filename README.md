@@ -1,4 +1,3 @@
-# RAG_Multiformat-document-fetcher
 # Multi-Format Document Q&A with RAG
 
 This application allows you to upload documents (PDF, TXT, CSV, Excel) and ask questions about their content using Retrieval-Augmented Generation (RAG).
